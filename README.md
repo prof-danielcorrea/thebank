@@ -1,7 +1,7 @@
 <h1 align="center">
   Projeto The bank
 </h1>
-
+<p align="center"><b>Desktop Preview</b> 🖥️ 💻</p>
 <p align="center">
   <img src="./images/pc.jpg" alt="pagina thebank" src="" width="100%">
 </p>
