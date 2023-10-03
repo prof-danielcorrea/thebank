@@ -1,9 +1,25 @@
 <h1 align="center">
   Projeto The bank
 </h1>
+
+<br>
+
 <p align="center"><b>Desktop Preview</b> 🖥️ 💻</p>
+
 <p align="center">
   <img src="./images/pc.jpg" alt="pagina thebank" src="" width="100%">
+</p>
+
+<p align="center"><b>Tablet Preview</b> 💻 📲</p>
+
+<p align="center">
+  <img src="./images/tablet.jpg" alt="pagina thebank" src="" width="100%">
+</p>
+
+<p align="center"><b>Mobile Preview</b> 📲 </p>
+
+<p align="center">
+  <img src="./images/telefone.jpg" alt="pagina thebank" src="" width="60%">
 </p>
 
 <p align="center">
